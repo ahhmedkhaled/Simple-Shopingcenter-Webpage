@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="userMaster.master.cs" Inherits="Shopping_Center.userMaster" %>
+
+<!DOCTYPE html>
+<script runat="server">
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            string usern = "";
+            string Fname = "";
+            string Lname = "";
+            if (Request.Cookies["userInfo"] != null)
+            
+                usern = Request.Cookies["userInfo"].Values["usern"];
+            Fname = Request.Cookies["userInfo"].Values["Fn"];
+            Lname = Request.Cookies["userInfo"].Values["Ln"];
+        
+        lblMsg1.Text = "Welcome " + Fname +" "+ Lname +" to A For You!!";
+  
+    }
+</script>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 88px;
+        }
+        .auto-style3 {
+            height: 68px;
+        }
+        .auto-style4 {
+            height: 340px;
+        }
+        .auto-style5 {
+            width: 169px;
+        }
+        .auto-style6 {
+            width: 167px;
+        }
+        .auto-style7 {
+            width: 155px;
+        }
+        .auto-style8 {
+            width: 124px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2">
+                        <table class="auto-style1">
+                            <tr>
+                                <td class="auto-style5">
+                                    <asp:Image ID="imguserpic" runat="server" Height="129px" Width="163px" />
+                                    <br />
+                                    <br />
+                                </td>
+                                <td>
+                                    <asp:Label ID="lblMsg1" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="X-Large" ForeColor="#CC0066"></asp:Label>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">
+                        <table class="auto-style1">
+                            <tr>
+                                <td class="auto-style6">
+                                    <asp:HyperLink ID="HyperLink1" runat="server" Font-Names="Arial" Font-Size="Medium" ForeColor="#CC0066" NavigateUrl="~/userHome.aspx">UserHome</asp:HyperLink>
+                                </td>
+                                <td class="auto-style7">
+                                    <asp:HyperLink ID="HyperLink2" runat="server" Font-Names="Arial" Font-Size="Medium" ForeColor="#CC0066" NavigateUrl="~/myAccount.aspx">MyAccount</asp:HyperLink>
+                                </td>
+                                <td class="auto-style8">
+                                    <asp:HyperLink ID="HyperLink3" runat="server" Font-Names="Arial" Font-Size="Medium" ForeColor="#CC0066" NavigateUrl="~/shop.aspx">Shop</asp:HyperLink>
+                                </td>
+                                <td>
+                                    <asp:HyperLink ID="HyperLink4" runat="server" Font-Names="Arial" Font-Size="Medium" ForeColor="#CC0066" NavigateUrl="~/Payment.aspx">Payment method</asp:HyperLink>
+                                </td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style4" style="vertical-align: top">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td> <center>
+        <FONT FACE="arial" color="midnightblue" size="-1">
+            Powered By FUE Team &copy; 2022 <a href="mailto:https://services.fue.edu.eg/">contact Webmaster</a>
+        </FONT>
+    </center>
+                    </td>
+                </tr>
+            </table>
+            <br />
+        </div>
+    </form>
+</body>
+</html>

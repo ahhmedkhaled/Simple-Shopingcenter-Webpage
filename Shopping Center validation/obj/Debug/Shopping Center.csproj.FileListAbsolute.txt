@@ -1,0 +1,63 @@
+C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.dll.config
+C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.dll
+C:\Users\ELgohary\source\repos\Shopping Center\bin\Shopping Center.pdb
+C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
+C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.dll
+C:\Users\ELgohary\source\repos\Shopping Center\obj\Debug\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\bin\Shopping Center.dll.config
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\bin\Shopping Center.dll
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\bin\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.dll
+C:\Users\ELgohary\Desktop\gui\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\bin\Shopping Center.dll.config
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\bin\Shopping Center.dll
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\bin\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.dll
+C:\Users\ELgohary\Desktop\Shopping_Center-main\Shopping Center\obj\Debug\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\Shopping Center validation\bin\Shopping Center.dll.config
+C:\Users\ELgohary\Desktop\Shopping Center validation\bin\Shopping Center.dll
+C:\Users\ELgohary\Desktop\Shopping Center validation\bin\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\Shopping Center validation\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
+C:\Users\ELgohary\Desktop\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\ELgohary\Desktop\Shopping Center validation\obj\Debug\Shopping Center.dll
+C:\Users\ELgohary\Desktop\Shopping Center validation\obj\Debug\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\bin\Shopping Center.dll.config
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\bin\Shopping Center.dll
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\bin\Shopping Center.pdb
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.AssemblyReference.cache
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.dll
+C:\Users\ELgohary\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.pdb
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.dll.config
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.dll
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.pdb
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csprojAssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.dll
+C:\Users\dell\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.pdb
+D:\ProjectWeb\project\Shopping Center validation\bin\Shopping Center.dll.config
+D:\ProjectWeb\project\Shopping Center validation\bin\Shopping Center.dll
+D:\ProjectWeb\project\Shopping Center validation\bin\Shopping Center.pdb
+D:\ProjectWeb\project\Shopping Center validation\obj\Debug\Shopping Center.csprojAssemblyReference.cache
+D:\ProjectWeb\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+D:\ProjectWeb\project\Shopping Center validation\obj\Debug\Shopping Center.dll
+D:\ProjectWeb\project\Shopping Center validation\obj\Debug\Shopping Center.pdb
+E:\Future\pro\project\Shopping Center validation\bin\Shopping Center.dll.config
+E:\Future\pro\project\Shopping Center validation\bin\Shopping Center.dll
+E:\Future\pro\project\Shopping Center validation\bin\Shopping Center.pdb
+E:\Future\pro\project\Shopping Center validation\obj\Debug\Shopping Center.csprojAssemblyReference.cache
+E:\Future\pro\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+E:\Future\pro\project\Shopping Center validation\obj\Debug\Shopping Center.dll
+E:\Future\pro\project\Shopping Center validation\obj\Debug\Shopping Center.pdb
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.dll.config
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.dll
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\bin\Shopping Center.pdb
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csprojAssemblyReference.cache
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.csproj.CoreCompileInputs.cache
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.dll
+C:\Users\green\OneDrive\Desktop\project\Shopping Center validation\obj\Debug\Shopping Center.pdb
